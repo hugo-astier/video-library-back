@@ -7,6 +7,6 @@ You need to start this server to provide the back-end for
 
 In the project directory, run:
 
-### `$ npm i`
+#### `$ npm i`
 
-### `$ npm start`
+#### `$ npm start`
